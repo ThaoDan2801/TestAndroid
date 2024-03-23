@@ -3,4 +3,12 @@
     <string name="Audio_File_01">Thanh xuan co em</string>
     <string name="Audio_File_02">20/12/2004</string>
     <string name="Audio_File_03">13 MB</string>
+    <string name="Audio_File_04">List Audio File</string>
+    <string name="Audio_File_05">Đồng ý</string>
+    <string name="Audio_File_06">Đổi tên file</string>
+    <string name="Audio_File_07">Xoá</string>
+    <string name="Audio_File_08">Bạn có thật sự muốn xoá không</string>
+    <string name="Audio_File_09">Đồng ý</string>
+    <string name="Audio_File_10">Huỷ</string>
+    <string name="Audio_File_11">Chỉnh sửa</string>
 </resources>
